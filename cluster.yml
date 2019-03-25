@@ -1,6 +1,6 @@
 nodes:
     - address: 192.168.1.12
-      user: ben
+      user: rancher
       role:
         - controlplane
         - etcd
